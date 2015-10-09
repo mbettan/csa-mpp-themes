@@ -1,4 +1,4 @@
-# HP Cloud Service Automation 4.x Marketplace Portal Themes
+# HP CSA 4.x Marketplace Portal Themes
 
 Multiple HP Cloud Service Automation customized CSS Themes for MarketPlace portals are available
 
