@@ -1,0 +1,9 @@
+{
+  "name": "renault-theme",
+  "ignore": [
+    ".gitignore",
+    "package.json",
+    "Gruntfile.js",
+    "index.html"
+  ]
+}
