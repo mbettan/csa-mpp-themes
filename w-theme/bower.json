@@ -1,0 +1,9 @@
+{
+  "name": "mpp-theme",
+  "ignore": [
+    ".gitignore",
+    "package.json",
+    "Gruntfile.js",
+    "index.html"
+  ]
+}
