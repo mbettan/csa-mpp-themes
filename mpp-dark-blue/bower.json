@@ -1,0 +1,9 @@
+{
+  "name": "mpp-dark-blue",
+  "ignore": [
+    ".gitignore",
+    "package.json",
+    "Gruntfile.js",
+    "index.html"
+  ]
+}
