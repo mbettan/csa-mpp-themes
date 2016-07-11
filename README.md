@@ -11,5 +11,5 @@ Multiple HP Cloud Service Automation customized CSS Themes for MarketPlace porta
 * mpp-purple folder contains the theme data for the mpp-purple MPP theme
 ![mpp-purple](https://cloud.githubusercontent.com/assets/14251830/10383890/f93ea41c-6e34-11e5-8004-ff78ac3af0a4.png)
 * mpp-dark-blue folder contains the theme data for the mpp-dark-blue MPP theme
-![msd mpp dashboard sidebar](https://cloud.githubusercontent.com/assets/14251830/16716597/1f173442-4701-11e6-8d0c-0e7ceeba3fc9.png)
+![mpp-dark-blue](https://cloud.githubusercontent.com/assets/14251830/16747224/72519072-47be-11e6-87de-13975297e36f.PNG)
 
